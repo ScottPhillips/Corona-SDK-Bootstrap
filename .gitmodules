@@ -1,0 +1,15 @@
+[submodule "libs/GGSound"]
+	path = libs/GGSound
+	url = https://scottphillips@github.com/GlitchGames/GGSound.git
+[submodule "libs/GGColour"]
+	path = libs/GGColour
+	url = https://scottphillips@github.com/GlitchGames/GGColour.git
+[submodule "libs/GGMusic"]
+	path = libs/GGMusic
+	url = https://scottphillips@github.com/GlitchGames/GGMusic.git
+[submodule "libs/GGFont"]
+	path = libs/GGFont
+	url = https://scottphillips@github.com/GlitchGames/GGFont.git
+[submodule "libs/Ice"]
+	path = libs/Ice
+	url = https://scottphillips@github.com/GrahamRanson/Ice.git
